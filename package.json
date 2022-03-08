@@ -1,6 +1,6 @@
 {
   "name": "tinyjsuse",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "js 工具函数库",
   "main": "lib/main.umd.js",
   "module": "lib/main.esm.js",

@@ -12,7 +12,7 @@
 ## Install
 
 ```
-  npm i jsuse
+  npm i tinyjsuse
 ```
 
 
