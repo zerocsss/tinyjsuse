@@ -1,0 +1,8 @@
+{
+  "entryPoints": ["modules/index.ts"],
+  "out": "docs",
+  "exclude": ["node_modules", "**/*.spec.ts", "**/*.d.ts"],
+  "name": "tinyjsuse",
+  "includeVersion": true,
+  "hideGenerator": true
+}
