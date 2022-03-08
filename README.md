@@ -5,7 +5,10 @@
 - copy
 - fullscreen
 - cookie
-- url2params
+- debounce
+- throttle
+- isObject
+- url2params (待完善)
 
 等等开发中常用的工具函数, 轻松提高业务研发效率.
 
