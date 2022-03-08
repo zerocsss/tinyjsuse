@@ -30,6 +30,6 @@ Demo:
 /**
  * title: 复制
  */
-import { copy } from 'jsuse';
+import { copy } from 'tinyjsuse';
 
 ```                                                      

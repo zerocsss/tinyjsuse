@@ -18,6 +18,14 @@
     "lodash",
     "es"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocsss/tinyjsuse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zerocsss/tinyjsuse/issues"
+  },
+  "homepage": "https://github.com/zerocsss/tinyjsuse#readme",
   "devDependencies": {
     "@rollup/plugin-babel": "^5.3.1",
     "@rollup/plugin-typescript": "^8.3.1",
