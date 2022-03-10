@@ -1,6 +1,6 @@
 {
   "name": "tinyjsuse",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "面向业务的js工具函数库",
   "main": "lib/bundle.umd.js",
   "module": "lib/bundle.esm.js",
