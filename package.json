@@ -10,8 +10,8 @@
     "test": "jest --no-cache",
     "doc": "typedoc --options typedoc.json"
   },
-  "author": "changs",
-  "license": "ISC",
+  "author": "changshuai",
+  "license": "MIT",
   "keywords": [
     "js",
     "javascript tool",
