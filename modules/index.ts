@@ -1,8 +1,3 @@
-/**
- * 当前函数库版本
- */
-export const version: string = "1.0.0";
-
 export { default as copy } from "./copy";
 export { default as cookie } from "./cookie";
 export { default as debounce } from "./debounce";

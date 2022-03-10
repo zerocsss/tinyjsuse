@@ -1,3 +1,6 @@
+/**
+ * 定时器类
+ */
 class Timer {
   _innerRemainingSecond = 0
 

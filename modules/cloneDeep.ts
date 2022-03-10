@@ -4,7 +4,7 @@ import { CloneDeep } from "../types/index";
 import isObject from "./isObject";
 
 /**
- * 浅拷贝
+ * 深拷贝
  * @param obj 需拷贝到对象
  */
 const cloneDeep: CloneDeep = (obj, map = new WeakMap()) => {

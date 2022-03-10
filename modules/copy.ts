@@ -1,3 +1,7 @@
+/**
+ * 复制到剪贴板
+ * @param target 可为元素id或字符串
+ */
 function copy(target: string) {
   let cop_txt = null;
   let element = document.getElementById(`${target}`);

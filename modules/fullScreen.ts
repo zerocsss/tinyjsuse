@@ -1,4 +1,6 @@
-//全屏
+/**
+ * 全屏
+ */
 function fullScreen(id: string) {
   var element: any = document.getElementById(id);
   if (element.requestFullscreen) {

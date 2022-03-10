@@ -1,3 +1,9 @@
+/**
+ * cookie操作
+ * @param obj 需拷贝到对象
+ * 
+ * @category 函数
+ */
 function saveCookie(name:string, value: string, exdays: number) {
   const cookie = `${name}=${value};`;
   const d = new Date();
