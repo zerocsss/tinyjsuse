@@ -21,7 +21,7 @@
 
 ## API Doc
 
-[tinyjsutils 文档]()
+[tinyjsutils 文档](https://zerocsss.github.io/tinyjsuse/)
 
 ## copy
 
@@ -36,3 +36,9 @@ Demo:
 import { copy } from 'tinyjsuse';
 
 ```                                                      
+## 自动构建新工具函数
+将自动在modules和test文件夹下创建模板
+
+```
+  npm run add xxx
+```

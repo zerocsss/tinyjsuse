@@ -1,10 +1,11 @@
 {
   "name": "tinyjsuse",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "面向业务的js工具函数库",
   "main": "lib/bundle.umd.js",
   "module": "lib/bundle.esm.js",
   "scripts": {
+    "add": "node ./build/add.js",
     "build": "rollup --config && npm run doc",
     "test": "jest --no-cache",
     "doc": "typedoc --options typedoc.json"
